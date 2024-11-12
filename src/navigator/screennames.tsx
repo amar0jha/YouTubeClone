@@ -1,0 +1,20 @@
+const ScreenNames = {
+    Splash: 'Splash',
+    // Tutorial:'Tutorial',
+    // SignIn: 'SignIn',
+    // SignUp: 'SignUp',
+    // Otp: 'Otp',
+    // Phone: 'Phone',
+    // Forgot: 'Forgot',
+    // Reset:'Reset',
+    BottomTab: 'BottomTab',
+    Home: 'Home',
+    Profile: 'Profile',
+    Subscription: 'Subscription',
+    Menu: 'Menu',
+    Shorts:'Shorts',
+    AddScreen:'AddScreen',
+    VideoPlayer:'VideoPlayer',
+    PlayerScreen:'PlayerScreen',
+};
+export {ScreenNames};
